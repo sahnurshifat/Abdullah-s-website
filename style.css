@@ -81,3 +81,8 @@ h2{
     padding-top: 20px;
     padding-bottom: 40px;
 }
+.lbg{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
